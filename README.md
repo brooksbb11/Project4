@@ -6,6 +6,8 @@ Machine learning models to identify children at risk for lead poisoning.
 * [Visuals](#visuals)
 * [Data Sources](#data-sources)
 * [Badges](#badges)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
 * [Grading Info](#grading-info)
 
 
@@ -44,6 +46,13 @@ Centers for Disease Control and Prevention/ Agency for Toxic Substances and Dise
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+## Project Status
+Project is: _in progress_ 
+
+
+## Acknowledgements
+- Many thanks to...
 
 # Grading Info
 This project was a part of the University of Arizona Data Analaysis Bootcamp (2023). The project is focused on working together to solve, analyze, and visualize a problem using machine learning (ML)

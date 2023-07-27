@@ -1,8 +1,16 @@
-# Project 4:
+# Project 4: Childhood Lead Poisoning Prevention & Modeling Project
+Machine learning models to identify children at risk for lead poisoning.
 
-This project was a part of the University of Arizona Data Analaysis Bootcamp (2023). The project is focused on working together to solve, analyze, and visualize a problem using machine learning (ML).
+## Table of Contents
+* [General Info](#general-information)
+* [Visuals](#visuals)
+* [Data Sources](#data-sources)
+* [Badges](#badges)
+* [Grading Info](#grading-info)
 
-## Contributors
+
+# General Information
+## Contributors (Who?)
 
 | Name          | Role          | Responsibilities |
 | ------------- | ------------- | ---------------- |
@@ -11,25 +19,19 @@ This project was a part of the University of Arizona Data Analaysis Bootcamp (20
 | [Brittany Brooks](https://github.com/brooksbb11)  | Modeling Lead | Manage the Machine Learning Model and Design |
 | [Noelle Martinez](https://github.com/noellemtz) | Dashboard Lead | Presentation Dashboard & Manage the GitHub Repository/Documentation |
 
-# Childhood Lead Poisoning Prevention & Modeling Project
-
-## Description
+## Background (What?)
 Lead poisoning can cause irreversible neurological damage in children. Lead in drinking water or paint are typical sources of lead poisoning. Currently, public health focuses response after children test for elevated lead levels. But we may be able to get ahead of the curve by using machine learning models. More information on childhood lead poisoning prevention can be found at the [CDC](https://www.cdc.gov/nceh/lead/overview.html). 
 
-For this project, we focused on New York data from the health.data.ny.gov site. In New York, health care providers are required to test all children for lead at or around ages one and two years. 
+## Motivation (Why?)
+We are motivated to address lead poisoning prevention as we all are impacted indirectly by lead issues. Dakota has children, Brittany is an educator, and we all care about preventing poisoning in our communities. 
 
-**Focus**: Machine learning models to identify children at risk for lead poisoning.
+## Timeframe (When?)
+The data is limited to 2020.
 
-
-## Questions
-
-# Badges
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+## Modeling (How?)
+We used NYS data on blood lead levels and school water quality. We coupled the data with the Social Vulnerability Index data from CDC, which includes demographics and housing data. The machine learning models predicted childhood lead exposure by using the aforementioned data.
 
 # Visuals
-
 
 # Data Sources
 Childhood Blood Lead Testing and Elevated Incidence by Birth Year and Zip Code: Beginning  2000 https://health.data.ny.gov/Health/Childhood-Blood-Lead-Testing-and-Elevated-Incidenc/dyed-4zxh
@@ -38,8 +40,14 @@ Lead Testing in School Drinking Water Sampling and Results: Compliance Year 2020
 
 Centers for Disease Control and Prevention/ Agency for Toxic Substances and Disease Registry/ Geospatial Research, Analysis, and Services Program. CDC/ATSDR Social Vulnerability Index. 2020. Database. New York.
 
+# Badges
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 # Grading Info
+This project was a part of the University of Arizona Data Analaysis Bootcamp (2023). The project is focused on working together to solve, analyze, and visualize a problem using machine learning (ML)
+
 ## Requirements
 1. Data Model Implementation (25 points)
 * A Python script initializes, trains, and evaluates a model (10 points)

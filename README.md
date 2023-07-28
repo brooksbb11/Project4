@@ -8,7 +8,6 @@ Machine learning models to identify children at risk for lead poisoning.
 * [Badges](#badges)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
-* [Grading Info](#grading-info)
 
 
 # General Information
@@ -43,9 +42,7 @@ Lead Testing in School Drinking Water Sampling and Results: Compliance Year 2020
 Centers for Disease Control and Prevention/ Agency for Toxic Substances and Disease Registry/ Geospatial Research, Analysis, and Services Program. CDC/ATSDR Social Vulnerability Index. 2020. Database. New York.
 
 # Badges
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 ## Project Status
 Project is: _in progress_ 

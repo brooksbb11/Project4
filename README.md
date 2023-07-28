@@ -16,7 +16,7 @@ Machine learning models to identify children at risk for lead poisoning.
 
 | Name          | Role          | Responsibilities |
 | ------------- | ------------- | ---------------- |
-| [Dakota Newcomb](https://github.com/DakNewcomb) | Project Manager | Manage the Project |
+| [Dakota Newcomb](https://github.com/DakNewcomb) | Project Manager | Manage the Project & presentation |
 | [Abby Boulter](https://github.com/Abby-Boulter) | Database Lead | Manage the Database and ETL Process |
 | [Brittany Brooks](https://github.com/brooksbb11)  | Modeling Lead | Manage the Machine Learning Model and Design |
 | [Noelle Martinez](https://github.com/noellemtz) | Dashboard Lead | Presentation Dashboard & Manage the GitHub Repository/Documentation |

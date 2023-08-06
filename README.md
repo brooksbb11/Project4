@@ -51,7 +51,7 @@ Centers for Disease Control and Prevention/ Agency for Toxic Substances and Dise
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _complete_ 
 
 
 ## Acknowledgements

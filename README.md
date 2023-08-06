@@ -33,12 +33,12 @@ The data is limited to 2020.
 We used NYS data on blood lead levels and school water quality. We coupled the data with the Social Vulnerability Index data from CDC, which includes demographics and housing data. The machine learning models predicted childhood lead exposure by using the aforementioned data.
 
 # Visuals
+We created a [Tableau Dashboard](https://public.tableau.com/views/NYChildhoodLeadPoisonining/DashboardBlood?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to provide a space for New York parents/caretakers/guardians to look at the data from 2020. They can hopefully inform themselves of the risk and prevent lead poisoning among their children.
+
+Here is a snapshot of the dashboard:
 ![dashboard_1](https://github.com/NoelleMtz/Project4/assets/123044294/5d63744e-003e-4eba-b2f0-ac32549b27b1)
 
-[Tableau Dashboard](https://public.tableau.com/views/NYChildhoodLeadPoisonining/DashboardBlood?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Google Presentation](https://docs.google.com/presentation/d/1TJXrL477vozhf1XKGRAlv48lkc03Fha2j0ou1smqR1I/edit?usp=drive_link)
-
+In addition, we have a Google slide deck prepared. [Google Presentation](https://docs.google.com/presentation/d/1TJXrL477vozhf1XKGRAlv48lkc03Fha2j0ou1smqR1I/edit?usp=drive_link)
 
 # Data Sources
 Childhood Blood Lead Testing and Elevated Incidence by Birth Year and Zip Code: Beginning  2000 https://health.data.ny.gov/Health/Childhood-Blood-Lead-Testing-and-Elevated-Incidenc/dyed-4zxh

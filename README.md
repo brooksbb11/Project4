@@ -36,7 +36,7 @@ We used NYS data on blood lead levels and school water quality. We coupled the d
 We created a [Tableau Dashboard](https://public.tableau.com/views/NYChildhoodLeadPoisonining/DashboardBlood?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to provide a space for New York parents/caretakers/guardians to look at the data from 2020. They can hopefully inform themselves of the risk and prevent lead poisoning among their children.
 
 Here is a snapshot of the dashboard:
-![dashboard_1](https://github.com/NoelleMtz/Project4/assets/123044294/5d63744e-003e-4eba-b2f0-ac32549b27b1)
+![dashboard_1](https://docs.google.com/presentation/d/1bt47caeji-csvwctJ8ict2xzWcgtx2SBKmR-Ozlxb54/edit?usp=sharing)
 
 In addition, we have a Google slide deck prepared. [Google Presentation](https://docs.google.com/presentation/d/1TJXrL477vozhf1XKGRAlv48lkc03Fha2j0ou1smqR1I/edit?usp=drive_link)
 

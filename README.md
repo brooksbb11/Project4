@@ -38,7 +38,7 @@ We created a [Tableau Dashboard](https://public.tableau.com/views/NYChildhoodLea
 Here is a snapshot of the dashboard:
 ![dashboard_1](https://docs.google.com/presentation/d/1bt47caeji-csvwctJ8ict2xzWcgtx2SBKmR-Ozlxb54/edit?usp=sharing)
 
-In addition, we have a Google slide deck prepared. [Google Presentation][(https://docs.google.com/presentation/d/1bt47caeji-csvwctJ8ict2xzWcgtx2SBKmR-Ozlxb54/edit?usp=sharing)]
+In addition, we have a Google slide deck prepared. [Google Presentation](https://docs.google.com/presentation/d/1bt47caeji-csvwctJ8ict2xzWcgtx2SBKmR-Ozlxb54/edit?usp=sharing)
 
 # Data Sources
 Childhood Blood Lead Testing and Elevated Incidence by Birth Year and Zip Code: Beginning  2000 https://health.data.ny.gov/Health/Childhood-Blood-Lead-Testing-and-Elevated-Incidenc/dyed-4zxh
